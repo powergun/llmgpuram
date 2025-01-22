@@ -14,3 +14,9 @@ However, huggingface provides the "tensor type" on the model card instead of qua
 You can find the parameter from the model card, and "tensor type"; pass "tensor type" to the quantization parameter.
 
 To compile this program to a native executable, take a look at `build.bat` (only runnable on Windows 64).
+
+## References
+
+inspired by:
+<https://www.substratus.ai/blog/calculating-gpu-memory-for-llm>
+
