@@ -20,3 +20,6 @@ To compile this program to a native executable, take a look at `build.bat` (only
 inspired by:
 <https://www.substratus.ai/blog/calculating-gpu-memory-for-llm>
 
+another article talking about RAM calculation:
+<[how much GPU
+memory](https://masteringllm.medium.com/how-much-gpu-memory-is-needed-to-serve-a-large-languagemodel-llm-b1899bb2ab5d)>
